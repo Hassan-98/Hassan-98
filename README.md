@@ -36,6 +36,5 @@
   <a href="https://www.linkedin.com/in/hassan1998/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/hassan2231998" target="_blank"><img height="28" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://github.com/Hassan-98" target="_blank"><img height="28" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://hassanali.tk/" target="_blank"><img height="28" src = "
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`"></a>
+  <a href="https://hassanali.tk/" target="_blank"><img height="28" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`"></a>
 </p>
