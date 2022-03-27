@@ -10,14 +10,12 @@
 
 <br/>
 
+<a target="_blank" href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" alt="Hassan Ali's Dev Card"/></a>
+
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Tailwind CSS**
 - 🤔 I’m looking for with **Remote Job as Web Developer**
 - 😄 Pronouns : **He/Him/His**
-
-<p float="right">
-<a target="_blank" href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="300" alt="Hassan Ali's Dev Card"/></a>
-</p>
 
 <br/>
 
