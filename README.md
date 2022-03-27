@@ -10,19 +10,14 @@
 
 <br/>
 
-<div style="display: flex">
-  <a target="_blank" href="https://app.daily.dev/DailyDevTips">
-    <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="400" alt="Hassan Ali's Dev Card"/>
-  </a>
+<a target="_blank" href="https://app.daily.dev/DailyDevTips">
+  <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="400" alt="Hassan Ali's Dev Card"/>
+</a>
 
-  <p>
-  - 🔭 I’m currently working on **Web Development**
-  - 🌱 I’m currently learning **Tailwind CSS**
-  - 🤔 I’m looking for with **Remote Job as Web Developer**
-  - 😄 Pronouns : **He/Him/His**
-  </p>
- 
-</div>
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Tailwind CSS**
+- 🤔 I’m looking for with **Remote Job as Web Developer**
+- 😄 Pronouns : **He/Him/His**
 
 <br/>
 
