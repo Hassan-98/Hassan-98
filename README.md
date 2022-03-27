@@ -9,9 +9,7 @@
 </h1>
 
 <br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="400" alt="Hassan Ali's Dev Card"/></a>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Tailwind CSS**
