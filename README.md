@@ -55,6 +55,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-98&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-98" /> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-98)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-98&show_icons=true) 
