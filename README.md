@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h2>MERN Stack Developer From Egypt</h2>
+<h2 align="center">MERN Stack Developer From Egypt</h2>
 
 <br/>
 
