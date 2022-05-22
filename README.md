@@ -22,10 +22,15 @@
 <span align="left">
   
 - 🔭 I’m working on **Web Development**
+  
 - 🌱 I’m learning **Tailwind CSS**
+  
 - 🤔 I’m looking for with **Remote Job as Web Developer**
+  
 - 💬 Ask me about **Front-End** 
+  
 - 📫 How to reach me: **7assan.3li1998@gmail.com**
+  
 - 📄 My Resume <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQKPriI_qVLxIAAAAYDqXD3MVCa4usugnta370KPJUOqFNSlcPGVh6lr83mpNHeKDafuik22vMADiJc4BpvUQLM8YRVgw7g45-L2-Fe0CXnB5SCcnLOSYZUDxmViFKt1HbZwlEBY5EDc2Z7ZLL7-5EL8tA_G-xI8jncHcLL-BaCuGuq41da_xcbMg5LMx-Zokep5ReF_hrRd-hQgWcRL0htMa5EGT_Y_3reUJ0LcZEqDcXXI94SysMQs3L_obBq6n4QTP3oZph7pzG7ry6kuXNyjVxO_ZE1UAxzZfaG17oN0upT3BqtdgEK1Fg0M7Eo_aChsMEC1QaEKwg32Iy-sGcNmfoR8eMSplZA22fhxWEM8_VdmfoovkWee9gnfoqvWyiEHxRCs6qWKQcXLzKNz2a3JxJS7KJSMIzmzq_RHwQSXjPLrbvjRafnG7INxphy13uMezolanWS67GR9VboEHYpxVGRdp8nlVBSRIKrSFIwP1lkwaoc9T4USTC1ibggJb_Wz49pu3Ez3LJxCD61QAi0rwspom1TOPv1tV7V4dmaAHNCkEvEqSbU4m73dFpmztTCcaA">My CV</a>
   
 </span>
