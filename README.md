@@ -53,3 +53,4 @@
   <a href="https://github.com/Hassan-98" target="_blank"><img height="28" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://hassanali.tk/" target="_blank"><img height="28" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-98&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-98" /> </p>
