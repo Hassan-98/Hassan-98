@@ -17,10 +17,11 @@
 
 <span align="left">
   
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🔭 I’m working on **Web Development**
+- 🌱 I’m learning **Tailwind CSS**
 - 🤔 I’m looking for with **Remote Job as Web Developer**
-- 😄 Pronouns : **He/Him/His**
+- 💬 Ask me about **Front-End** 
+- 📫 How to reach me: **7assan.3li1998@gmail.com**
   
 </span>
 </p>
