@@ -10,9 +10,11 @@
 
 <br/>
 
-<a target="_blank" href="https://app.daily.dev/DailyDevTips">
-  <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="250" alt="Hassan Ali's Dev Card"/>
-</a>
+<p align="right">
+  <a target="_blank" href="https://app.daily.dev/DailyDevTips">
+    <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="250" alt="Hassan Ali's Dev Card"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Tailwind CSS**
