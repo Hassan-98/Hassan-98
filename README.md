@@ -10,19 +10,21 @@
 
 <br/>
 
-<p align="right">
+<p align="center">
+<span align="right">
   <a target="_blank" href="https://app.daily.dev/DailyDevTips">
     <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="250" alt="Hassan Ali's Dev Card"/>
   </a>
-</p>
+</span>
 
-<p align="left">
+<span align="left">
   
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Tailwind CSS**
 - 🤔 I’m looking for with **Remote Job as Web Developer**
 - 😄 Pronouns : **He/Him/His**
   
+</span>
 </p>
 
 <br/>
@@ -61,7 +63,5 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-98&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-98" /> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-98&show_icons=true) 
