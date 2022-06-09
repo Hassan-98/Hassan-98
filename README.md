@@ -31,7 +31,7 @@
   
 - 📫 How to reach me: **7assan.3li1998@gmail.com**
   
-- 📄 My Resume <a href="[https://drive.google.com/file/d/1ZLw_PGlYhfauvB7toRigV7G2bSfExgWl/view?usp=sharing](https://drive.google.com/file/d/1E2KOldVa9_SvSle8W87e1IWJpHNYvLdw/view?usp=sharing)">My CV</a>
+- 📄 My Resume <a href="https://drive.google.com/file/d/1E2KOldVa9_SvSle8W87e1IWJpHNYvLdw/view?usp=sharing">My CV</a>
   
 </span>
 </p>
