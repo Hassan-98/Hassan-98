@@ -23,7 +23,7 @@
   
 - 🔭 I’m working on **Web Development**
   
-- 🌱 I’m learning **Tailwind CSS**
+- 🌱 I’m learning **TypeScript**
   
 - 🤔 I’m looking for with **Remote Job as Web Developer**
   
