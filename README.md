@@ -16,7 +16,7 @@
 
 <p align="center">
 <a target="_blank" href="https://app.daily.dev/DailyDevTips">
-  <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="250" alt="Hassan Ali's Dev Card"/>
+  <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/devcard.svg" width="300" alt="Hassan Ali's Dev Card"/>
 </a>
 
 <span align="left">
