@@ -17,7 +17,7 @@
   
 - 🔭 I’m working on **Web Development**
   
-- 🌱 I’m learning **TypeScript**
+- 🌱 I’m learning **NestJS**
   
 - 🤔 I’m looking for with **Remote Job as Web Developer**
   
