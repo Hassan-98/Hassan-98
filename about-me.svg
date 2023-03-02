@@ -2,46 +2,83 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
-
         .container {
-          background-color: black;
+            --secondary-color: #1cffff;
+            --secondary-tint: #1cffffb7;
+            --btns-bg: transparent;
+        }
+        
+        @keyframes morphing {
+          0% {
+            border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
+          }
 
-          width: 100%;
-          height: 600px;
+          35% {
+            border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
+          }
 
+          70% {
+            border-radius: 33% 67% 58% 42% / 63% 68% 42% 47%;
+          }
+        }
+        .row {
           display: flex;
           justify-content: center;
           align-items: center;
-          color: white;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
+        .col-7 {
+          flex-grow: 7;
         }
 
-        @media (prefers-reduced-motion) {
-          .hi {
-            animation: none;
+        .col-5 {
+          flex-grow: 5;
+        }
+        
+        .btn {
+          background-color: var(--secondary-tint);
+          border-color: transparent;
+          color: var(--common-bg);
+          font-weight: 450;
+        }
+        
+        .bg {
+          background-image: url('./my-picture.png');
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: contain;
+          aspect-ratio: 1;
+          height: 500px;
+          border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
+          animation: morphing 8s linear infinite;
+        }
+        @media (max-width: 1200px) {
+          .bg {
+            height: 400px;
+          }
+        }
+        @media (max-width: 992px) {
+          .bg {
+            height: 350px;
           }
         }
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Hassan <div class="hi">👋</div></h1>
+        <div class="row">
+          <div class="col-7">
+            <p class="greeting">Hi, <span>I am</span></p>
+            <h1>Hassan Ali</h1>
+            <h2>MERN Stack Web Developer</h2>
+            <p>{data.descriptionText}</p>
+            <a href="https://hassanali.tk/works">
+              <button class="btn">Check out my works!</button>
+            </a>
+          </div>
+          <div class="col-5">
+            <div class="bg"></div>
+          </div>
+        </div>
       </div>
     </div>
   </foreignObject>
