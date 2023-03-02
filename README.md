@@ -40,7 +40,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fsass.svg?alt=media&token=944f01b2-34a3-4b3d-97a5-1a44d0529045" width="50" height="50" title="Sass">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Freact.svg?alt=media&token=ae8689ca-64b9-4b56-9bbf-c178727d6e42" width="50" height="50" title="React">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fredux.svg?alt=media&token=f0a5b6e4-b18b-439b-af7e-faf9d6567560" width="50" height="50" title="Redux">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnextjs.svg?alt=media&token=edcb28da-8b72-46fe-8730-1ecb2fa48e25" width="50" height="50" title="Nextjs">
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="50" height="50" title="Nextjs">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fvue.svg?alt=media&token=00e2949d-8fa6-4512-be3a-ab92804ab657" width="50" height="50" title="Vue">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnuxt.svg?alt=media&token=154a9811-2964-4c04-b064-50507bb315f8" width="50" height="50" title="Nuxt">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fmaterial-ui.svg?alt=media&token=5fc10ed1-0599-45b9-8107-550702e738ca" width="50" height="50" title="Material UI">
