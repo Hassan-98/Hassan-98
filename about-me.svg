@@ -2,84 +2,227 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container {
-            --secondary-color: #1cffff;
-            --secondary-tint: #1cffffb7;
-            --btns-bg: transparent;
-        }
-        
-        @keyframes morphing {
-          0% {
-            border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
-          }
+      .container {
+        --secondary-color: #1cffff;
+        --secondary-tint: #1cffffb7;
+        --btns-bg: transparent;
+        --common-bg: #09162b;
+        --main-color: #8892b0;
+        --font-mono: monospace;
+      }
 
-          35% {
-            border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
-          }
-
-          70% {
-            border-radius: 33% 67% 58% 42% / 63% 68% 42% 47%;
-          }
+      @keyframes morphing {
+        0% {
+          border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
         }
+
+        35% {
+          border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
+        }
+
+        70% {
+          border-radius: 33% 67% 58% 42% / 63% 68% 42% 47%;
+        }
+      }
+
+      .container {
+        background-color: #0a192f;
+        padding: 70px 50px;
+      }
+
+      .greeting {
+        color: var(--main-color);
+        font-weight: 600;
+        font-size: 24px;
+        margin: 0;
+        max-width: 100%;
+        font-family: var(--font-mono);
+      }
+
+      .greeting span {
+        text-transform: uppercase;
+        font-size: inherit;
+      }
+
+      @media (max-width: 1200px) {
+        .greeting {
+          text-align: center;
+        }
+      }
+
+      h1 {
+        font-family: var(--font-mono);
+        font-size: 80px;
+        font-weight: 600;
+        margin-bottom: 0;
+        margin-top: 0;
+        position: relative;
+        left: -5px;
+        color: #8892b0;
+      }
+
+      @media (max-width: 1200px) {
+        h1 {
+          font-size: 75px;
+        }
+      }
+
+      @media (max-width: 992px) {
+        h1 {
+          font-size: 64px;
+          text-align: center;
+        }
+      }
+
+      @media (max-width: 767px) {
+        h1 {
+          font-size: 58px;
+        }
+      }
+
+      h2 {
+        font-weight: 900;
+        color: var(--main-color);
+        font-size: 42px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-family: var(--font-mono);
+      }
+
+      @media (max-width: 1200px) {
+        h2 {
+          font-size: 38px;
+        }
+      }
+
+      @media (max-width: 992px) {
+        h2 {
+          font-size: 35px;
+          text-align: center;
+        }
+      }
+
+      @media (max-width: 767px) {
+        h2 {
+          font-size: 32px;
+        }
+      }
+
+      p {
+        margin: 0 0 25px;
+        color: #8892b0;
+        max-width: 80%;
+        font-size: 17px;
+        font-family: var(--font-mono);
+      }
+
+      @media (max-width: 1200px) {
+        p {
+          margin: 0 auto 25px;
+          text-align: center;
+        }
+      }
+
+      @media (max-width: 992px) {
+        p {
+          max-width: 100%;
+        }
+      }
+
+      h3 {
+        margin-top: 30px;
+        font-family: "Reey";
+        color: var(--main-color);
+      }
+
+      .row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .col-7 {
+        flex-grow: 7;
+      }
+
+      .col-5 {
+        flex-grow: 5;
+      }
+
+      @media (max-width: 992px) {
         .row {
-          display: flex;
-          justify-content: center;
-          align-items: center;
+          flex-wrap: wrap;
         }
 
         .col-7 {
-          flex-grow: 7;
+          width: 100%;
+          text-align: center;
         }
 
         .col-5 {
-          flex-grow: 5;
+          width: 100%;
+          text-align: center;
         }
-        
-        .btn {
-          background-color: var(--secondary-tint);
-          border-color: transparent;
-          color: var(--common-bg);
-          font-weight: 450;
-        }
-        
-        .bg {
-          background-image: url('./my-picture.png');
-          background-repeat: no-repeat;
-          background-position: center;
-          background-size: contain;
-          aspect-ratio: 1;
-          height: 500px;
-          border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
-          animation: morphing 8s linear infinite;
-        }
-        @media (max-width: 1200px) {
-          .bg {
-            height: 400px;
-          }
-        }
-        @media (max-width: 992px) {
-          .bg {
-            height: 350px;
-          }
-        }
-      </style>
+      }
 
-      <div class="container">
-        <div class="row">
-          <div class="col-7">
-            <p class="greeting">Hi, <span>I am</span></p>
-            <h1>Hassan Ali</h1>
-            <h2>MERN Stack Web Developer</h2>
-            <p>{data.descriptionText}</p>
-            <a href="https://hassanali.tk/works">
-              <button class="btn">Check out my works!</button>
-            </a>
-          </div>
-          <div class="col-5">
-            <div class="bg"></div>
-          </div>
+      .btn {
+        background-color: var(--secondary-tint);
+        border-color: transparent;
+        color: var(--common-bg);
+        font-weight: bold;
+        padding: 12px 25px;
+        font-family: var(--font-mono);
+        font-size: 17px;
+        color: #0a192f;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+
+      .bg {
+        background-color: var(--common-bg);
+        background-image: url("./my-picture.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        aspect-ratio: 1;
+        height: 450px;
+        border-radius: 46% 54% 53% 47% / 43% 37% 63% 57%;
+        animation: morphing 8s linear infinite;
+      }
+
+      @media (max-width: 1200px) {
+        .bg {
+          height: 400px;
+        }
+      }
+
+      @media (max-width: 992px) {
+        .bg {
+          height: 350px;
+          margin: 30px auto 0;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-7">
+          <p class="greeting">Hi, <span>I am</span></p>
+          <h1>Hassan Ali</h1>
+          <h2>MERN Stack Web Developer</h2>
+          <p>
+            I'm a self-taught software engineer based on Egypt, with over 2
+            years experience specializing in MERN Stack web development.
+          </p>
+          <a href="https://hassanali.tk/works">
+            <button class="btn">Check out my works!</button>
+          </a>
+        </div>
+        <div class="col-5">
+          <div class="bg"></div>
         </div>
       </div>
+    </div>
     </div>
   </foreignObject>
 </svg>
