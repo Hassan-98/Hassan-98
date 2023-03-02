@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 600" width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 600" width="1200" height="860" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -180,7 +180,7 @@
 
       .bg {
         background-color: var(--common-bg);
-        background-image: url("./my-picture.png");
+        background-image: url("https://storage.googleapis.com/portfolio-storage-63979.appspot.com/images/general%20settings/image_1676895126665?GoogleAccessId=firebase-adminsdk-3tkkh%40portfolio-storage-63979.iam.gserviceaccount.com&Expires=4102444800&Signature=uMCUTBD1lm2QYcedeaBHTRvd5V4CQMehLltg4ynvNQ5HhGSnFbK1jC%2BKB78Ku7Zsc%2FLRPjttVUteKeozWR5vFrLDdiaXc6gwMIwKSmrX%2BZmf1Q5acICtRa5ubSOKYjKn0UwF15%2BGgyYsKFcJF0Yz8SKY4Q10z8TTjxvsyDX0vCtM%2Ba%2BVLXgEL0oOccjrIQRGEquuL9o7G7gRdR9e8ah04zC1KOvqaAz2F%2F%2FH42OTMxuZpIPU%2BwFraitQU0qky8TyLqjRbMo%2FG1%2Fpo1nbae0WWkvY9uejzgRfrbcx2KbmFJ5%2B034TMPGJfhCz1yP%2BG6Ffh23ZjwrBkhEgC8j5nHgGmA%3D%3D");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
