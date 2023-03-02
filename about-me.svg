@@ -187,9 +187,7 @@
           </p>
         </div>
         <div class="col-5">
-          <div class="bg">
-            <image xlink:href="./my-picture.png" />
-          </div>
+          <div class="bg"></div>
         </div>
       </div>
     </div>
