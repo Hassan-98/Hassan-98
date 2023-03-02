@@ -149,35 +149,6 @@
         flex-grow: 5;
       }
 
-      @media (max-width: 992px) {
-        .row {
-          flex-wrap: wrap;
-        }
-
-        .col-7 {
-          width: 100%;
-          text-align: center;
-        }
-
-        .col-5 {
-          width: 100%;
-          text-align: center;
-        }
-      }
-
-      .btn {
-        background-color: var(--secondary-tint);
-        border-color: transparent;
-        color: var(--common-bg);
-        font-weight: bold;
-        padding: 12px 25px;
-        font-family: var(--font-mono);
-        font-size: 17px;
-        color: #0a192f;
-        cursor: pointer;
-        border-radius: 5px;
-      }
-
       .bg {
         background-color: var(--common-bg);
         background-image: url("https://i.imgur.com/5kOKuRx.png");
@@ -214,9 +185,6 @@
             I'm a self-taught software engineer based on Egypt, with over 2
             years experience specializing in MERN Stack web development.
           </p>
-          <a href="https://hassanali.tk/works">
-            <button class="btn">Check out my works!</button>
-          </a>
         </div>
         <div class="col-5">
           <div class="bg"></div>
