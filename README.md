@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/tjtkiJ0.png" style="max-width:100%;">
-</h1>
-
 <img src="about-me.svg" alt="about me" />
 
 <p align="center">
