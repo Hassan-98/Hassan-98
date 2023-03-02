@@ -59,6 +59,7 @@
         position: relative;
         left: -5px;
         color: #8892b0;
+          text-align: center;
       }
 
       @media (max-width: 1200px) {
@@ -70,7 +71,6 @@
       @media (max-width: 992px) {
         h1 {
           font-size: 64px;
-          text-align: center;
         }
       }
 
@@ -87,6 +87,7 @@
         margin-top: 0;
         margin-bottom: 10px;
         font-family: var(--font-mono);
+          text-align: center;
       }
 
       @media (max-width: 1200px) {
@@ -98,7 +99,6 @@
       @media (max-width: 992px) {
         h2 {
           font-size: 35px;
-          text-align: center;
         }
       }
 
@@ -187,7 +187,9 @@
           </p>
         </div>
         <div class="col-5">
-          <div class="bg"></div>
+          <div class="bg">
+          <img src="https://i.imgur.com/5kOKuRx.png" />
+          </div>
         </div>
       </div>
     </div>
