@@ -51,10 +51,12 @@
 
 <h1>Back End</h1>
 <p float="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnodejs.svg?alt=media&token=8f287f78-fd7a-478b-813b-172399acc7da" width="50" height="50" title="Node.js">
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="50" height="50" title="Express">
+  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fmongodb.svg?alt=media&token=475b63d7-c33c-451a-90ed-c28ebeb3decb" width="50" height="50" title="MongoDB">
+  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Ftypescript.svg?alt=media&token=20bbce10-10dd-409a-8921-5fbb6c14f391" width="50" height="50" title="TypeScript">
+  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fpostgresql.svg?alt=media&token=ad8ae82c-de81-4eae-931e-3a3863355119" width="50" height="50" title="Postgres">  
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6LfYwHeK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1608/0f93b179-76bf-4ee7-a838-e8222fbef062.png" width="50" height="50" title="Prisma"> 
 </p>
 
 <h1><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h1>
