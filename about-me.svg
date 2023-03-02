@@ -188,7 +188,7 @@
         </div>
         <div class="col-5">
           <div class="bg">
-            <image xlink:href="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/my-picture.png" />
+            <image xlink:href="./my-picture.png" />
           </div>
         </div>
       </div>
