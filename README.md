@@ -29,7 +29,7 @@
 
 ## **LANGUAGES AND TECHNOLOGIES:**  
 
-<h1>Front End</h1>
+<h2>Front End</h2>
 <p float="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fhtml.svg?alt=media&token=41b6cb22-b0fc-4353-8cb0-9287feee5f49" width="50" height="50" title="HTML">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fcss.svg?alt=media&token=db281305-5fa9-4e6a-a96b-83d675fb6047" width="50" height="50" title="CSS">
@@ -49,7 +49,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fgatsby.svg?alt=media&token=8b1015cd-f567-4a22-8dc3-f9e98a46a39a" width="50" height="50" title="Gatsby">
 </p>
 
-<h1>Back End</h1>
+<h2>Back End</h2>
 <p float="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnodejs.svg?alt=media&token=8f287f78-fd7a-478b-813b-172399acc7da" width="50" height="50" title="Node.js">
   <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fexpress.svg?alt=media&token=bcc8eecb-fa9c-4d6a-a6d4-9f03f8bab806" width="50" height="50" title="Express" style="border-radius: 50%;">
