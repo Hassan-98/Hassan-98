@@ -1,7 +1,7 @@
 <img src="about-me.svg" alt="about me" />
 
 <p align="center">
-  <b>MERN Stack Developer From Egypt</b>
+  <b>Welcome to my place 😊</b>
 </p>
 
 <br/>
