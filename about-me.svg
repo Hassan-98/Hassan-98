@@ -28,7 +28,7 @@
 
       .container {
         background-color: #0a192f;
-        padding: 70px 50px;
+        padding: 200px 50px;
       }
 
       .greeting {
