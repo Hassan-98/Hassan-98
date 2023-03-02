@@ -151,7 +151,7 @@
 
       .bg {
         background-color: var(--common-bg);
-        background-image: url("https://i.imgur.com/5kOKuRx.png");
+        background-image: url("https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/my-picture.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
@@ -188,7 +188,7 @@
         </div>
         <div class="col-5">
           <div class="bg">
-          <img src="https://i.imgur.com/5kOKuRx.png" />
+          <img src="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/my-picture.png" />
           </div>
         </div>
       </div>
