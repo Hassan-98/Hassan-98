@@ -1,7 +1,7 @@
 <img src="about-me.svg" alt="about me" />
 
 <p align="center">
-  <b>Welcome to my place 😊</b>
+  <b>Welcome To My Place 😊</b>
 </p>
 
 <br/>
