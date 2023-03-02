@@ -31,7 +31,7 @@
 
 <h1>Front End</h1>
 <p float="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fhtml.svg?alt=media&token=41b6cb22-b0fc-4353-8cb0-9287feee5f49">
+  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fhtml.svg?alt=media&token=41b6cb22-b0fc-4353-8cb0-9287feee5f49" width="50" height="50">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
