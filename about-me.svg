@@ -141,15 +141,11 @@
         align-items: center;
       }
 
-      .col-7 {
-        flex-grow: 7;
-      }
-
-      .col-5 {
-        flex-grow: 5;
-      }
-
       .bg {
+      position: absolute;
+      top: 50px;
+      left: 50%;
+      width: calc(100% - 100px);
         background-color: var(--common-bg);
         background-image: url("https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/my-picture.png");
         background-repeat: no-repeat;
@@ -187,9 +183,7 @@
           </p>
         </div>
         <div class="col-5">
-          <div class="bg">
-            <image href="https://raw.githubusercontent.com/Hassan-98/Hassan-98/master/my-picture.png">
-          </div>
+          <div class="bg"></div>
         </div>
       </div>
     </div>
