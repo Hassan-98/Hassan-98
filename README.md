@@ -12,11 +12,7 @@
   
 - 🔭 I’m working on **Web Development**
   
-- 🌱 I’m learning **NestJS** & **Prisma**
-  
-- 🤔 I’m looking for with **Remote Job as Web Developer**
-  
-- 💬 Ask me about **Front-End** 
+- 💬 Ask me about **MERN Stack technologies and tools**. I'm happy to help 😊
   
 - 📫 How to reach me: **7assan.3li1998@gmail.com**
   
