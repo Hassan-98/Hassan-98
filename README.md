@@ -12,7 +12,7 @@
   
 - 🔭 I’m working on **Web Development**
   
-- 💬 Ask me about **MERN Stack technologies and tools**. I'm happy to help 😊
+- 💬 Ask me about **Front End technologies and tools**. I'm happy to help 😊
   
 - 📫 How to reach me: **7assan.3li1998@gmail.com**
   
