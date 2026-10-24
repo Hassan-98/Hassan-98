@@ -1,67 +1,61 @@
-<img src="about-me.svg" alt="about me" />
+<a href="https://hassan-ali.site">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Hassan Ali, Senior Frontend Engineer. 4+ years of experience, 46+ projects shipped, 15 in-depth showcases, English and Arabic." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <b>Welcome To My Place 😊</b>
+  <a href="https://hassan-ali.site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/portfolio-dark.svg"><img alt="Portfolio" src="assets/links/portfolio-light.svg" height="44"></picture></a>
+  <a href="https://hassan-ali.site/recruiter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/recruiter-dark.svg"><img alt="60-second profile" src="assets/links/recruiter-light.svg" height="44"></picture></a>
+  <a href="https://hassan-ali.site/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/resume-dark.svg"><img alt="Resume" src="assets/links/resume-light.svg" height="44"></picture></a>
+  <a href="https://www.linkedin.com/in/hassan1998"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img alt="LinkedIn" src="assets/links/linkedin-light.svg" height="44"></picture></a>
+  <a href="mailto:7assan.3li1998@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/email-dark.svg"><img alt="Email" src="assets/links/email-light.svg" height="44"></picture></a>
+  <a href="https://hassan-ali.site/ar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/arabic-dark.svg"><img alt="Arabic version" src="assets/links/arabic-light.svg" height="44"></picture></a>
 </p>
 
-<br/>
+## About
+
+I'm a self-taught frontend engineer from Egypt who turns complex products into interfaces people enjoy using. Since 2021 I've shipped 46+ projects, from a threat-intelligence platform for a Swiss security firm to e-learning platforms, online stores and an Arabic party-game hub, plus 12 premium templates on ThemeForest.
+
+- **Now:** Frontend Developer at **DarkMon**, building the four apps of its threat-intelligence platform.
+- **Focus:** fast, accessible interfaces with React, Next.js and TypeScript, shared design systems, and full Arabic right-to-left support.
+- **Open to:** full-time frontend roles and freelance projects.
+
+## Featured work
 
 <p align="center">
-
-<span align="left">
-  
-- 🔭 I’m working on **Web Development**
-  
-- 💬 Ask me about **Front End technologies and tools**. I'm happy to help 😊
-  
-- 📫 How to reach me: **7assan.3li1998@gmail.com**
-  
-- 📄 My Resume <a href="https://drive.google.com/file/d/1xHoQUhyxFJe9FNAh22A2V-nbO8IkGWul/view?usp=sharing">My CV</a>
-  
-</span>
+  <a href="https://hassan-ali.site/projects/darkmon-tip"><img src="assets/work/darkmon-tip.webp" alt="DarkMon TIP: threat-intelligence platform with four apps" width="49%"></a>
+  <a href="https://hassan-ali.site/projects/markety"><img src="assets/work/markety.webp" alt="Markety: shopping platform of three connected apps" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://hassan-ali.site/projects/imtyaz"><img src="assets/work/imtyaz.webp" alt="Imtyaz: online learning platform" width="49%"></a>
+  <a href="https://hassan-ali.site/projects/lammah"><img src="assets/work/lammah.webp" alt="Lammah: Arabic-first party-game hub" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://hassan-ali.site/projects/corex-store"><img src="assets/work/corex-store.webp" alt="CoreX Store: gift cards and game credits" width="49%"></a>
+  <a href="https://hassan-ali.site/projects/chatup"><img src="assets/work/chatup.webp" alt="ChatUp: private messaging for web and Android" width="49%"></a>
 </p>
 
-<br/>
+<p align="center"><a href="https://hassan-ali.site/projects"><b>See all 46 projects on hassan-ali.site →</b></a></p>
 
-## **LANGUAGES AND TECHNOLOGIES:**  
+## Experience
 
-<h2>Front End</h2>
-<p float="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fhtml.svg?alt=media&token=41b6cb22-b0fc-4353-8cb0-9287feee5f49" width="50" height="50" title="HTML">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fcss.svg?alt=media&token=db281305-5fa9-4e6a-a96b-83d675fb6047" width="50" height="50" title="CSS">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fjavascript.svg?alt=media&token=ebc042aa-f2b9-469a-96f2-c039958a2ef2" width="50" height="50" title="JavaScript">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Ftypescript.svg?alt=media&token=20bbce10-10dd-409a-8921-5fbb6c14f391" width="50" height="50" title="TypeScript">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fjquery.svg?alt=media&token=085a45d5-935c-4ed2-98a4-2ed1d483692f" width="50" height="50" title="jQuery">  
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fbootstrap.svg?alt=media&token=e58db10c-f5b8-469e-85eb-1b11013de213" width="50" height="50" title="Bootstrap">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fsass.svg?alt=media&token=944f01b2-34a3-4b3d-97a5-1a44d0529045" width="50" height="50" title="Sass">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Freact.svg?alt=media&token=ae8689ca-64b9-4b56-9bbf-c178727d6e42" width="50" height="50" title="React">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fredux.svg?alt=media&token=f0a5b6e4-b18b-439b-af7e-faf9d6567560" width="50" height="50" title="Redux">
-  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="50" height="50" title="Nextjs">
-</p>
-<p float="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fvue.svg?alt=media&token=00e2949d-8fa6-4512-be3a-ab92804ab657" width="50" height="50" title="Vue">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnuxt.svg?alt=media&token=154a9811-2964-4c04-b064-50507bb315f8" width="50" height="50" title="Nuxt">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fmaterial-ui.svg?alt=media&token=5fc10ed1-0599-45b9-8107-550702e738ca" width="50" height="50" title="Material UI">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fgatsby.svg?alt=media&token=8b1015cd-f567-4a22-8dc3-f9e98a46a39a" width="50" height="50" title="Gatsby">
-</p>
+| | Role | Highlights | When |
+| :---: | --- | --- | --- |
+| <img src="assets/companies/darkmon.svg" width="32" alt="DarkMon"> | **Frontend Developer**<br>[DarkMon](https://darkmon.com) | Four apps of an enterprise threat-intelligence platform across six codebases, on one shared design system | Sep 2024 – Present |
+| <img src="assets/companies/gridsapps.png" width="32" alt="GridsApps"> | **Front End Developer**<br>[GridsApps](https://gridsapps.com) | Multi-language client platforms with full Arabic right-to-left support, including Hawas, Dorosak and Afiyetcom | Oct 2023 – Sep 2024 |
+| <img src="assets/companies/themescamp.png" width="32" alt="ThemesCamp"> | **Front End Developer**<br>[ThemesCamp](https://themescamp.com) | Premium website templates published on ThemeForest | Apr 2022 – Oct 2023 |
 
-<h2>Back End</h2>
-<p float="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fnodejs.svg?alt=media&token=8f287f78-fd7a-478b-813b-172399acc7da" width="50" height="50" title="Node.js">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fexpress.svg?alt=media&token=bcc8eecb-fa9c-4d6a-a6d4-9f03f8bab806" width="50" height="50" title="Express" style="border-radius: 50%;">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fmongodb.svg?alt=media&token=475b63d7-c33c-451a-90ed-c28ebeb3decb" width="50" height="50" title="MongoDB">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Ftypescript.svg?alt=media&token=20bbce10-10dd-409a-8921-5fbb6c14f391" width="50" height="50" title="TypeScript">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fpostgresql.svg?alt=media&token=ad8ae82c-de81-4eae-931e-3a3863355119" width="50" height="50" title="Postgres">  
-  <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-storage-63979.appspot.com/o/stack-logos%2Fjest.svg?alt=media&token=fcd220b9-0c8a-431f-b40b-06fc8ec30f74" width="50" height="50" title="Jest"> 
-</p>
+## Stack
 
-<h1><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h1>
-<p>
-  <a href="mailto:7assan.3li1998@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hassan1998/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://hassanali.tk/" target="_blank"><img height="28" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.webp">
+  <img alt="Every day: React, Next.js, TypeScript, Tailwind CSS, Sass, Vitest, Claude. Also comfortable with: Redux, Framer Motion, Jest, Playwright, Node.js, Express, MongoDB, Git, Vercel, Figma." src="assets/stack-light.webp" width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-98&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-98" /> </p>
+## Let's work together
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-98&show_icons=true) 
+Hiring for a frontend role or planning a project? Email me at **[7assan.3li1998@gmail.com](mailto:7assan.3li1998@gmail.com)**, or get the whole picture in the [60-second profile](https://hassan-ali.site/recruiter).
+
+<p dir="rtl">الموقع متاح بالعربية أيضًا: <a href="https://hassan-ali.site/ar">hassan-ali.site/ar</a></p>
