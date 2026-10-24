@@ -1,7 +1,7 @@
 <a href="https://hassan-ali.site">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Hassan Ali, Senior Frontend Engineer. 4+ years of experience, 46+ projects shipped, 15 in-depth showcases, English and Arabic." src="assets/header-light.svg" width="100%">
+    <img alt="Hassan Ali, Senior Frontend Engineer. 4+ years of experience, 39+ projects shipped, 15 in-depth showcases, English and Arabic." src="assets/header-light.svg" width="100%">
   </picture>
 </a>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a self-taught frontend engineer from Egypt who turns complex products into interfaces people enjoy using. Since 2021 I've shipped 46+ projects, from a threat-intelligence platform for a Swiss security firm to e-learning platforms, online stores and an Arabic party-game hub, plus 12 premium templates on ThemeForest.
+I'm a self-taught frontend engineer from Egypt who turns complex products into interfaces people enjoy using. Since 2021 I've shipped 39+ projects, from a threat-intelligence platform for a Swiss security firm to e-learning platforms, online stores and an Arabic party-game hub, plus 12 premium templates on ThemeForest.
 
 - **Now:** Frontend Developer at **DarkMon**, building the four apps of its threat-intelligence platform.
 - **Focus:** fast, accessible interfaces with React, Next.js and TypeScript, shared design systems, and full Arabic right-to-left support.
@@ -37,7 +37,7 @@ I'm a self-taught frontend engineer from Egypt who turns complex products into i
   <a href="https://hassan-ali.site/projects/chatup"><img src="assets/work/chatup.webp" alt="ChatUp: private messaging for web and Android" width="49%"></a>
 </p>
 
-<p align="center"><a href="https://hassan-ali.site/projects"><b>See all 46 projects on hassan-ali.site →</b></a></p>
+<p align="center"><a href="https://hassan-ali.site/projects"><b>See all 39 projects on hassan-ali.site →</b></a></p>
 
 ## Experience
 
